@@ -1,0 +1,25 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alanselivanov/FoodDeliveryApp#readme",
+  "bugs": {
+    "url": "https://github.com/alanselivanov/FoodDeliveryApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanselivanov/FoodDeliveryApp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main_page_func.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.14.1"
+  }
+}
